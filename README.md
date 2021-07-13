@@ -8,6 +8,7 @@ Python
 Flask, MongoDB, HTML, CSS
 
 ## Application architecture:
-![5](https://user-images.githubusercontent.com/79206625/125473405-c2c7b036-63d2-4871-84c9-4c009c409d6a.png)
+![5](https://user-images.githubusercontent.com/79206625/125473621-daf9c7f0-2640-40ef-8e6a-21e227a99f49.png)
+
 
 
